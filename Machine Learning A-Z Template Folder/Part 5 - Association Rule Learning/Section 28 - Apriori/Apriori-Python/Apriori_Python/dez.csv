@@ -1,0 +1,11 @@
+Leite,Cafe,Cerveja,Pao,Manteiga,Arroz,Feijao
+N,Cafe,N,Pao,Manteiga,N,N
+S,N,S,Pao,Manteiga,N,N
+N,Cafe,N,Pao,Manteiga,N,N
+S,Cafe,N,Pao,Manteiga,N,N
+N,N,S,N,N,N,N
+N,N,N,N,S,N,N
+N,N,N,Pao,N,N,N
+N,N,N,N,N,N,S
+N,N,N,N,N,S,S
+N,N,N,N,N,S,N
